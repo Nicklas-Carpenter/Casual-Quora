@@ -1,0 +1,8 @@
+# Ignore IDE configuration stuffs
+.vscode/
+
+# Ignore npm weirdness
+package-lock.json
+
+# Ignore web-ext generated files
+web-ext-artifacts/
