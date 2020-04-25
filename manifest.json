@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Casual Quora",
+    "version": "0.2.0",
+
+    "description": "Removes the Quora login pop-up.",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "*://*.quora.com/*"
+    ],
+
+    "icons": {
+        "48": "icons/casual_quora_48.png"
+    }
+}
