@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Casual Quora",
-    "version": "1.0.0",
+    "version": "1.1.0",
 
     "description": "Removes the Quora login pop-up.",
 
