@@ -17,5 +17,11 @@
 
     "icons": {
         "48": "icons/casual_quora_48.png"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "carpenter.nicklas@gmail.com"
+        }
     }
 }
