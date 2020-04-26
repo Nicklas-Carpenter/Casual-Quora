@@ -6,7 +6,7 @@
     "description": "Removes the Quora login pop-up.",
 
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["src/background.js"]
     },
 
     "permissions": [
